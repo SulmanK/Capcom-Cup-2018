@@ -1,3 +1,5 @@
+
+
 ## Objective
 * Create a dashboard to convey analysis on the participants in the Capcom Cup 2018, the premiere eSports Street Fighter V tournament.
 
