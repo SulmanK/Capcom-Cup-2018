@@ -1,5 +1,3 @@
-![Capcom Pro Tour 2018 Logo](Capcom_Cup_2018.png)
-
 <p align="center">
   <img width="400" height="307" src="Capcom_Cup_2018.png">
 </p>
