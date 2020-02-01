@@ -1,7 +1,7 @@
 ![Capcom Pro Tour 2018 Logo](Capcom_Cup_2018.png)
 
 <p align="center">
-  <img width="600" height="200" src="Capcom_Cup_2018.png)">
+  <img width="600" height="200" src="Capcom_Cup_2018.png">
 </p>
 
 ![Capcom Pro Tour 2018 Dashboard](https://capcom-cup-2018-dash-app.herokuapp.com)
