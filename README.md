@@ -12,5 +12,10 @@
 * Exploratory Data Analysis conducted using various python packages (Numpy, Matplotlib, Pandas, and Plotly).
 * Deployed Plotly-dashboard using Heroku.
 
+## Contents:
+* Capcom Cup 2018 Dashboard.ipynb - Jupyter Notebook containing the code used to deploy and generate the dashboard.
+* Capcom_Cup_2018_SQL.csv - CSV file containing the dataframe.
+* Capcom_Cup_2018.png - Capcom Cup 2018 logo.
+
 
 
