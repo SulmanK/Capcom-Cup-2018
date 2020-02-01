@@ -1,5 +1,6 @@
 ![Capcom Pro Tour 2018 Logo](Capcom_Cup_2018.png)
 
+![Capcom Pro Tour 2018 Dashboard](https://capcom-cup-2018-dash-app.herokuapp.com/)
 ## Objective
 * Create a dashboard to convey analysis on the participants in the Capcom Cup 2018, the premiere eSports Street Fighter V tournament.
 
