@@ -20,9 +20,9 @@
 * Capcom_Cup_2018_SQL.csv - CSV file containing the dataframe.
 * Capcom_Cup_2018.png - Capcom Cup 2018 logo.
 
-## Further Information
-- For information on the Capcom Pro Tour head to https://capcomprotour.com/.
-- For information in my collaboration with Fingercramp check out https://www.fingercramp.com/portfolio/capcom-cup-2018-design-package/
+## Additional Information
+- For more information on the Capcom Pro Tour head to https://capcomprotour.com/.
+- For more information in my collaboration with Fingercramp check out https://www.fingercramp.com/portfolio/capcom-cup-2018-design-package/
 
 
 
