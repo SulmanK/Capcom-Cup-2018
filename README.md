@@ -1,6 +1,8 @@
 ## Objective
-* Create a dashboard to convey analysis on the participants in the Capcom Cup 2018
+* Create a dashboard to convey analysis on the participants in the Capcom Cup 2018, the premiere eSports Street Fighter V tournament.
 
+## Background Information
+* Capcom Cup 2018 is the penultimate tournament for Capcom Pro Tour, an eSports league for Street Fighter V.
 
 ## Process:
 * Implemented a PostgreSQL database for storing and handling of data queries.
