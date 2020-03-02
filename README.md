@@ -2,10 +2,9 @@
   <img width="400" height="307" src="Capcom_Cup_2018.png">
 </p>
 
-[Capcom Pro Tour 2018 Dashboard](https://capcom-pro-cup-2018-dash.herokuapp.com/)
 ## Objective
 * Create a dashboard to convey analysis on the participants in the Capcom Cup 2018, the premiere eSports Street Fighter V tournament.
-
+  * [Capcom Pro Tour 2018 Dashboard](https://capcom-pro-cup-2018-dash.herokuapp.com/)
 ## Background Information
 * Capcom Cup 2018 is the penultimate tournament for Capcom Pro Tour, an eSports league for Street Fighter V.
 
